@@ -1,0 +1,45 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+## Entity Framework
+Migrations/
+
+## Logs
+*.log
+
+## Secrets
+appsettings.Development.json
+appsettings.Local.json
+
+## Others
+*.db
+*.sqlite
+*.pdb
+*.cache
+*.vs/
