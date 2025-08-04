@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\controller\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\controller\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\api\\swagger\\swaggerdefaultvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\api\\swagger\\swaggerdefaultvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\client\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\client\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\api\\swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\api\\swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\api\\swagger\\dependencyinjection\\swaggerregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\api\\swagger\\dependencyinjection\\swaggerregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\controller\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\controller\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\client\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\client\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\infrastructure\\spotify\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\infrastructure\\spotify\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\client\\spotifyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\client\\spotifyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\infrastructure\\spotify\\spotifyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\infrastructure\\spotify\\spotifyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\infrastructure\\spotify\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\infrastructure\\spotify\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|c:\\users\\luana_thurow\\projetos\\luana-application\\luana-web-api\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3299A08-5D64-28E0-2AA0-BD4E056F0B7A}|luana-web-api.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,51 +62,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "SwaggerRegistrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Swagger\\DependencyInjection\\SwaggerRegistrationExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Swagger\\DependencyInjection\\SwaggerRegistrationExtensions.cs",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Swagger\\DependencyInjection\\SwaggerRegistrationExtensions.cs",
+              "RelativeToolTip": "src\\Api\\Swagger\\DependencyInjection\\SwaggerRegistrationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:50:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerDefaultValues.cs",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Swagger\\SwaggerDefaultValues.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Swagger\\SwaggerDefaultValues.cs",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Swagger\\SwaggerDefaultValues.cs",
+              "RelativeToolTip": "src\\Api\\Swagger\\SwaggerDefaultValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:51:20.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Swagger\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Swagger\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Swagger\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "src\\Api\\Swagger\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:50:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T11:35:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SpotifyService.cs",
-              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Client\\SpotifyService.cs",
-              "RelativeDocumentMoniker": "src\\Client\\SpotifyService.cs",
-              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Client\\SpotifyService.cs",
-              "RelativeToolTip": "src\\Client\\SpotifyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Infrastructure\\Spotify\\SpotifyService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Spotify\\SpotifyService.cs",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Infrastructure\\Spotify\\SpotifyService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Spotify\\SpotifyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T18:09:42.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SpotifyController.cs",
               "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Controller\\SpotifyController.cs",
               "RelativeDocumentMoniker": "src\\Controller\\SpotifyController.cs",
               "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Controller\\SpotifyController.cs",
               "RelativeToolTip": "src\\Controller\\SpotifyController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwEQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T14:16:59.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SpotifyAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Client\\SpotifyAuthService.cs",
-              "RelativeDocumentMoniker": "src\\Client\\SpotifyAuthService.cs",
-              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Client\\SpotifyAuthService.cs",
-              "RelativeToolTip": "src\\Client\\SpotifyAuthService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Infrastructure\\Spotify\\SpotifyAuthService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Spotify\\SpotifyAuthService.cs",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Infrastructure\\Spotify\\SpotifyAuthService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Spotify\\SpotifyAuthService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T14:15:42.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "SpotifySettings.cs",
-              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Client\\SpotifySettings.cs",
-              "RelativeDocumentMoniker": "src\\Client\\SpotifySettings.cs",
-              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Client\\SpotifySettings.cs",
-              "RelativeToolTip": "src\\Client\\SpotifySettings.cs",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Infrastructure\\Spotify\\SpotifySettings.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Spotify\\SpotifySettings.cs",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Infrastructure\\Spotify\\SpotifySettings.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Spotify\\SpotifySettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T14:02:25.686Z",
@@ -99,37 +167,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-21T13:53:50.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Program.cs",
-              "RelativeToolTip": "src\\Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\Program.cs*",
+              "RelativeToolTip": "src\\Api\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T14:12:54.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T13:53:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luana_Thurow\\projetos\\Luana-Application\\luana-web-api\\src\\Api\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-21T18:20:46.824Z",

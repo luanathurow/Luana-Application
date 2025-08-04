@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&family=Poppins:wght@300;700&display=swap');
+
+body {
+  margin: 0;
+  background-color: #121212;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+#root {
+  text-align: center;
+}
+
+.top-title {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  padding: 20px 10px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-bottom: 2px solid #ff69b4;
+}
+
+.top-title h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  color: #ff69b4;
+  font-family: 'Rock Salt', cursive;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.main-image {
+  max-width: 200px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px #ff69b4;
+  margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-spotify {
+  background-color: #ff69b4;
+  color: white;
+  padding: 12px 24px;
+  border: 2px solid white;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 100px; 
+}
+
+.button-spotify:hover {
+  background-color: #e91e63;
+  transform: scale(1.05);
+}
+
+.footer {
+  position: fixed;
+  bottom: 0; /* <-- abaixo */
+  text-align: center;
+  color: #ff69b4;
+  font-size: 0.9rem;
+  font-family: 'Poppins', sans-serif;
+  border-top: 1px solid #ff69b4;
+  background-color: #1a1a1a;
+  width: 100%;
+  margin-top: 60px;
+}
+
